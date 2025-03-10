@@ -11,8 +11,8 @@ I'm a dedicated iOS developer with a strong focus on creating high-performance, 
 - **Tools:** Xcode, CocoaPods, Swift Package Manager  
 - **Networking:** URLSession, Alamofire  
 - **Database:** Core Data, Realm, Firebase  
-- **Payments:** Razorpay, Apple Pay  
-- **Version Control:** Git, GitHub  
+- **Payments:** Razorpay, Apple Pay, Stripe  
+- **Version Control:** GitHub, BitBucket  
 
 ### 💡 What I'm Currently Working On  
 - 🚀 Building innovative iOS applications with scalable architecture  
@@ -25,7 +25,6 @@ If you like my work and want to support me, you can buy me a coffee!
 
 ### 🤝 Let's Connect!  
 💬 Ask me about anything related to iOS development!  
-📫 Reach me at: [Your Email or Social Media Links]  
-🔗 [Your Portfolio or Website (if any)]  
+📫 Reach me at: https://www.linkedin.com/in/ranjit-singh-156493144/
 
 ⚡ Fun Fact: I love debugging more than coding! 😄  
