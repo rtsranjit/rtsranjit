@@ -12,7 +12,6 @@
 - 📱 I build high-performance **Swift** applications  
 - ❤️ Passionate about **clean code & security in iOS**  
 - 🔍 Focused on **enhancing security against MITM attacks**  
-- 🔭 Currently working on **ONBOARDAI** & **Cell ID iOS applications**  
 - 🤝 Open to collaborating on **exciting iOS projects**  
 
 ---
