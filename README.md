@@ -4,7 +4,8 @@
   🚀 iOS Developer | Swift Enthusiast | Passionate about Building Scalable Apps
 </p>
 
-<img align="right" width="350" src="https://github.com/hadiyarajesh/hadiyarajesh/blob/master/Assets/dev.gif" alt="dev_logo"/>
+<br>
+<img align="right" width="350" src="https://github.com/rtsranjit/rtsranjit/blob/main/Assets/dev.gif" alt="dev_logo"/>
 
 ## 💫 About Me
 
