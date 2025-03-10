@@ -1,30 +1,70 @@
-# Hey, I'm Ranjit! 👋  
+<h1 align="center">Hey, I'm Ranjit! 👋</h1>
 
-🚀 iOS Developer | Swift Enthusiast | Passionate about Building Scalable Apps  
+<p align="center">
+  🚀 iOS Developer | Swift Enthusiast | Passionate about Building Scalable Apps
+</p>
 
-## 📱 About Me  
-I'm a dedicated iOS developer with a strong focus on creating high-performance, user-friendly applications. I love working with Swift, SwiftUI, and UIKit to build seamless experiences.  
+<img align="right" width="350" src="https://github.com/hadiyarajesh/hadiyarajesh/blob/master/Assets/dev.gif" alt="dev_logo"/>
 
-### 🔨 Tech Stack  
-- **Languages:** Swift, Objective-C  
-- **Frameworks:** SwiftUI, UIKit, Core Data, Combine  
-- **Tools:** Xcode, CocoaPods, Swift Package Manager  
-- **Networking:** URLSession, Alamofire  
-- **Database:** Core Data, Realm, Firebase  
-- **Payments:** Razorpay, Apple Pay, Stripe  
-- **Version Control:** GitHub, BitBucket  
+## 💫 About Me
 
-### 💡 What I'm Currently Working On  
-- 🚀 Building innovative iOS applications with scalable architecture  
-- 🔍 Enhancing security for iOS apps against MITM attacks  
-- 🛠 Improving the ONBOARDAI and Cell ID iOS applications  
+- 👨‍💻 I'm a professional **iOS Developer**  
+- 📱 I build high-performance **Swift** applications  
+- ❤️ Passionate about **clean code & security in iOS**  
+- 🔍 Focused on **enhancing security against MITM attacks**  
+- 🔭 Currently working on **ONBOARDAI** & **Cell ID iOS applications**  
+- 🤝 Open to collaborating on **exciting iOS projects**  
 
-### ☕ Support My Work  
-If you like my work and want to support me, you can buy me a coffee!  
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support%20My%20Work-yellow?style=flat&logo=buy-me-a-coffee)](https://buymeacoffee.com/rtsranjit)  
+---
 
-### 🤝 Let's Connect!  
-💬 Ask me about anything related to iOS development!  
-📫 Reach me at: https://www.linkedin.com/in/ranjit-singh-156493144/
+## 🌐 Let's Connect
 
-⚡ Fun Fact: I love debugging more than coding! 😄  
+<p align="left">
+  <a href="https://linkedin.com/in/rtsranjit" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/rtsranjit" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="https://github.com/rtsranjit" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 💻 My Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Objective--C-007AFF?style=for-the-badge&logo=apple&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SwiftUI-0081CB?style=for-the-badge&logo=swift&logoColor=white"/>
+  <img src="https://img.shields.io/badge/UIKit-282C34?style=for-the-badge&logo=apple&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Core%20Data-563D7C?style=for-the-badge&logo=apple&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Razorpay-316192?style=for-the-badge&logo=razorpay&logoColor=white"/>
+</p>
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rtsranjit&theme=white&hide_border=false" alt="github_contribution"/>
+</p>
+
+---
+
+## ☕ Support My Work  
+
+<p>
+  <a href="https://buymeacoffee.com/rtsranjit" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
+  </a>
+</p>
+
+---
+
+<div align="center">
+  <h3>⭐ Show some love by starring my repositories! ⭐</h3>
+</div>
