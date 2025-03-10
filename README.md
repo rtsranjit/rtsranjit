@@ -23,9 +23,6 @@
   <a href="https://linkedin.com/in/rtsranjit" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/rtsranjit" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
 </p>
 
 ---
@@ -40,6 +37,7 @@
   <img src="https://img.shields.io/badge/Core%20Data-563D7C?style=for-the-badge&logo=apple&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"/>
   <img src="https://img.shields.io/badge/Razorpay-316192?style=for-the-badge&logo=razorpay&logoColor=white"/>
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
 ---
@@ -63,5 +61,5 @@
 ---
 
 <div align="center">
-  <h3>⭐ Show some love by starring my repositories! ⭐</h3>
+  <h3>Show some ❤️ by starring some repositories!</h3>
 </div>
