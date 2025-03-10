@@ -36,8 +36,7 @@
   <img src="https://img.shields.io/badge/UIKit-282C34?style=for-the-badge&logo=apple&logoColor=white"/>
   <img src="https://img.shields.io/badge/Core%20Data-563D7C?style=for-the-badge&logo=apple&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Razorpay-316192?style=for-the-badge&logo=razorpay&logoColor=white"/>
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
 
 ---
