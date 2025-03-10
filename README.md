@@ -1,13 +1,12 @@
-<h1 align="center">Hey, I'm Ranjit! 👋</h1>
+<h1 align="left">Hey, I'm Ranjit! 👋</h1>
 
-<p align="center">
+<p align="left">
   🚀 iOS Developer | Swift Enthusiast | Passionate about Building Scalable Apps
 </p>
 
 <img align="right" width="350" src="https://github.com/rtsranjit/rtsranjit/blob/main/Assets/dev.gif" alt="dev_logo"/>
 
 ## 💫 About Me
-
 
 - 👨‍💻 I'm a professional **iOS Developer**  
 - 📱 I build high-performance **Swift** applications  
