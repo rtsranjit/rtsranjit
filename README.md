@@ -4,8 +4,9 @@
   🚀 iOS Developer | Swift Enthusiast | Passionate about Building Scalable Apps
 </p>
 
-<br>
 <img align="right" width="350" src="https://github.com/rtsranjit/rtsranjit/blob/main/Assets/dev.gif" alt="dev_logo"/>
+
+<br>
 
 ## 💫 About Me
 
